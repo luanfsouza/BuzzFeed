@@ -1,27 +1,26 @@
-# ProjetoBuzzfeed
+## BuzzFeed: Descubra se você seria um super-heroi ou vilão!
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
+**Preview:**
+![buzz-feed-banner](./public/assets/images/buzz-feed.png)
 
-## Development server
+**Um teste divertido para descobrir se você tem o que é preciso para ser um super-herói!**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este projeto Angular simula um quiz do BuzzFeed, onde o usuário responde a perguntas e descobre qual super-herói ele seria.
 
-## Code scaffolding
+**Funcionalidades:**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* **Quiz Interativo:** Perguntas dinâmicas e respostas variadas.
+* **Resultados Personalizados:** Feedbacks únicos para cada perfil de herói.
+* **Banco de Dados Simulado:** Utiliza um JSON para armazenar as perguntas, respostas e resultados.
 
-## Build
+**Tecnologias:**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+* Angular
+* TypeScript
+* JSON
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+**Como Usar:**
+1. Clone este repositório.
+2. Instale as dependências: `npm install`.
+3. Execute o projeto: `ng serve` para a url `http://localhost:4200/`.
+4. Acesse http://localhost:4200 no seu navegador.
